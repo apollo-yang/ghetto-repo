@@ -25,3 +25,5 @@ This is just disgusting.
         compile 'com.placed.client:android-persistent-sdk:1.20'
     }
     ```
+
+Testing a checkin
